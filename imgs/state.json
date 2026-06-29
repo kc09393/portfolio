@@ -1,36 +1,36 @@
 {
-  "_v": 1782755862261,
+  "_v": 1782755890497,
   "bio": "",
   "artworks": [
     {
       "key": "a0",
-      "title": "林境幽影",
+      "title": "æå¢å¹½å½±",
       "lbl": "Acrylic & Digital",
-      "sub": "Mixed Media · 2022",
+      "sub": "Mixed Media Â· 2022",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a0.jpg"
     },
     {
       "key": "a1",
-      "title": "抽象系列 No.1",
+      "title": "æ½è±¡ç³»å No.1",
       "lbl": "Oil on Canvas",
-      "sub": "Oil Painting · 2022",
+      "sub": "Oil Painting Â· 2022",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1.jpg"
     },
     {
       "key": "a2",
-      "title": "抽象系列 No.2",
+      "title": "æ½è±¡ç³»å No.2",
       "lbl": "Oil on Canvas",
-      "sub": "Oil Painting · 2021",
+      "sub": "Oil Painting Â· 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a2.jpg"
     },
     {
       "key": "a3",
-      "title": "靜物素描",
+      "title": "éç©ç´ æ",
       "lbl": "Pencil on Paper",
-      "sub": "Drawing · 2021",
+      "sub": "Drawing Â· 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
     },
@@ -53,7 +53,7 @@
     {
       "key": "a1782750463843",
       "title": "Untitled",
-      "lbl": "Mixed Media",
+      "lbl": "",
       "sub": "",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
@@ -61,7 +61,7 @@
     {
       "key": "a1782751756956",
       "title": "Untitled",
-      "lbl": "Mixed Media",
+      "lbl": "",
       "sub": "",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
@@ -69,7 +69,7 @@
     {
       "key": "a1782753078662",
       "title": "Untitled",
-      "lbl": "Mixed Media",
+      "lbl": "",
       "sub": "",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
@@ -86,29 +86,29 @@
   "photos": [
     {
       "key": "p0",
-      "title": "蜜與花",
-      "sub": "微距 · 自然",
+      "title": "èèè±",
+      "sub": "å¾®è· Â· èªç¶",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p0.jpg"
     },
     {
       "key": "p1",
-      "title": "黃昏出航",
-      "sub": "風景 · 海洋",
+      "title": "é»æåºèª",
+      "sub": "é¢¨æ¯ Â· æµ·æ´",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p1.jpg"
     },
     {
       "key": "p2",
-      "title": "縱身",
-      "sub": "街頭 · 動態",
+      "title": "ç¸±èº«",
+      "sub": "è¡é ­ Â· åæ",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p2.jpg"
     },
     {
       "key": "p3",
-      "title": "波上宮",
-      "sub": "神社 · 沖繩",
+      "title": "æ³¢ä¸å®®",
+      "sub": "ç¥ç¤¾ Â· æ²ç¹©",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
     },
@@ -141,7 +141,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "",
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
       "thumb": ""
     },
     {
@@ -149,7 +149,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "main": "",
       "thumb": ""
     },
     {
