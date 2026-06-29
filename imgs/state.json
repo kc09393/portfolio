@@ -1,36 +1,36 @@
 {
-  "_v": 1782755920555,
+  "_v": 1782755922182,
   "bio": "",
   "artworks": [
     {
       "key": "a0",
-      "title": "æå¢å¹½å½±",
+      "title": "林境幽影",
       "lbl": "Acrylic & Digital",
-      "sub": "Mixed Media Â· 2022",
+      "sub": "Mixed Media · 2022",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a0.jpg"
     },
     {
       "key": "a1",
-      "title": "æ½è±¡ç³»å No.1",
+      "title": "抽象系列 No.1",
       "lbl": "Oil on Canvas",
-      "sub": "Oil Painting Â· 2022",
+      "sub": "Oil Painting · 2022",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1.jpg"
     },
     {
       "key": "a2",
-      "title": "æ½è±¡ç³»å No.2",
+      "title": "抽象系列 No.2",
       "lbl": "Oil on Canvas",
-      "sub": "Oil Painting Â· 2021",
+      "sub": "Oil Painting · 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a2.jpg"
     },
     {
       "key": "a3",
-      "title": "éç©ç´ æ",
+      "title": "靜物素描",
       "lbl": "Pencil on Paper",
-      "sub": "Drawing Â· 2021",
+      "sub": "Drawing · 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
     },
@@ -86,29 +86,29 @@
   "photos": [
     {
       "key": "p0",
-      "title": "èèè±",
-      "sub": "å¾®è· Â· èªç¶",
+      "title": "蜜與花",
+      "sub": "微距 · 自然",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p0.jpg"
     },
     {
       "key": "p1",
-      "title": "é»æåºèª",
-      "sub": "é¢¨æ¯ Â· æµ·æ´",
+      "title": "黃昏出航",
+      "sub": "風景 · 海洋",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p1.jpg"
     },
     {
       "key": "p2",
-      "title": "ç¸±èº«",
-      "sub": "è¡é ­ Â· åæ",
+      "title": "縱身",
+      "sub": "街頭 · 動態",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p2.jpg"
     },
     {
       "key": "p3",
-      "title": "æ³¢ä¸å®®",
-      "sub": "ç¥ç¤¾ Â· æ²ç¹©",
+      "title": "波上宮",
+      "sub": "神社 · 沖繩",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
     },
@@ -221,7 +221,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "main": "",
       "thumb": ""
     },
     {
@@ -237,7 +237,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "main": "",
       "thumb": ""
     }
   ]
