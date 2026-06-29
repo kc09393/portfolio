@@ -1,5 +1,5 @@
 {
-  "_v": 1782755844450,
+  "_v": 1782755862261,
   "bio": "",
   "artworks": [
     {
@@ -80,7 +80,7 @@
       "lbl": "Mixed Media",
       "sub": "",
       "desc": "",
-      "img": ""
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782755843571.jpg"
     }
   ],
   "photos": [
@@ -133,6 +133,14 @@
       "org": "",
       "date": "",
       "tags": [],
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
       "main": "",
       "thumb": ""
     },
@@ -190,14 +198,6 @@
       "date": "",
       "tags": [],
       "main": "",
-      "thumb": ""
-    },
-    {
-      "name": "",
-      "org": "",
-      "date": "",
-      "tags": [],
-      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
       "thumb": ""
     },
     {
