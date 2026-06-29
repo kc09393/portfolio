@@ -1,5 +1,5 @@
 {
-  "_v": 1782755823477,
+  "_v": 1782755844450,
   "bio": "",
   "artworks": [
     {
@@ -40,7 +40,7 @@
       "lbl": "Mixed Media",
       "sub": "",
       "desc": "",
-      "img": ""
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782741379104.jpg"
     },
     {
       "key": "a1782742647246",
@@ -56,7 +56,7 @@
       "lbl": "Mixed Media",
       "sub": "",
       "desc": "",
-      "img": ""
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
     },
     {
       "key": "a1782751756956",
@@ -75,12 +75,12 @@
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
     },
     {
-      "key": "a1782755758828",
+      "key": "a1782755843571",
       "title": "Untitled",
       "lbl": "Mixed Media",
       "sub": "",
       "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782755758828.jpg"
+      "img": ""
     }
   ],
   "photos": [
@@ -141,7 +141,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "",
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
       "thumb": ""
     },
     {
