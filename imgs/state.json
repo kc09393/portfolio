@@ -1,360 +1,332 @@
 {
-    "_v":  1782801175368,
-    "bio":  "",
-    "artworks":  [
-                     {
-                         "key":  "a0",
-                         "title":  "林境幽影",
-                         "lbl":  "Acrylic \u0026 Digital",
-                         "sub":  "Mixed Media · 2022",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a0.jpg"
-                     },
-                     {
-                         "key":  "a1",
-                         "title":  "抽象系列 No.1",
-                         "lbl":  "Oil on Canvas",
-                         "sub":  "Oil Painting · 2022",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1.jpg"
-                     },
-                     {
-                         "key":  "a2",
-                         "title":  "抽象系列 No.2",
-                         "lbl":  "Oil on Canvas",
-                         "sub":  "Oil Painting · 2021",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a2.jpg"
-                     },
-                     {
-                         "key":  "a3",
-                         "title":  "靜物素描",
-                         "lbl":  "Pencil on Paper",
-                         "sub":  "Drawing · 2021",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
-                     },
-                     {
-                         "key":  "a1782741379104",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782741379104.jpg"
-                     },
-                     {
-                         "key":  "a1782742647246",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782742647246.png"
-                     },
-                     {
-                         "key":  "a1782750463843",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
-                     },
-                     {
-                         "key":  "a1782751756956",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
-                     },
-                     {
-                         "key":  "a1782753078662",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
-                     },
-                     {
-                         "key":  "a1782755843571",
-                         "title":  "Untitled",
-                         "lbl":  "Mixed Media",
-                         "sub":  "",
-                         "desc":  "",
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-a1782755843571.jpg"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d0.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d0",
-                         "lbl":  "3D Environment / Blender",
-                         "title":  "敺拙???"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d1.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d1",
-                         "lbl":  "3D Sculpture / Blender",
-                         "title":  "?訾?鋆蔭 KC"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d2.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d2",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "撟餌蝘?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d3.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d3",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "???啗?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d4.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d4",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "?撟曆?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d5.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d5",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "?芯?鈭箏?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d6.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d6",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "KAUCHI ??閬死"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d7.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d7",
-                         "lbl":  "3D Character / Blender",
-                         "title":  "?訾???皜脫?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d8.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d8",
-                         "lbl":  "3D Product / Blender",
-                         "title":  "??ˇ?砌?"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d9.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d9",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "撟曆??噬"
-                     },
-                     {
-                         "img":  "https://kc09393.github.io/portfolio/imgs/art-d10.png",
-                         "sub":  "3D Art 繚 2026",
-                         "desc":  "",
-                         "key":  "d10",
-                         "lbl":  "3D Render / Blender",
-                         "title":  "?望絲撉賊爸"
-                     }
-                 ],
-    "photos":  [
-                   {
-                       "key":  "p0",
-                       "title":  "蜜與花",
-                       "sub":  "微距 · 自然",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p0.jpg"
-                   },
-                   {
-                       "key":  "p1",
-                       "title":  "黃昏出航",
-                       "sub":  "風景 · 海洋",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p1.jpg"
-                   },
-                   {
-                       "key":  "p2",
-                       "title":  "縱身",
-                       "sub":  "街頭 · 動態",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p2.jpg"
-                   },
-                   {
-                       "key":  "p3",
-                       "title":  "波上宮",
-                       "sub":  "神社 · 沖繩",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
-                   },
-                   {
-                       "key":  "p1782741496340",
-                       "title":  "Untitled",
-                       "sub":  "",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p1782741496340.png"
-                   },
-                   {
-                       "key":  "p1782753587168",
-                       "title":  "Untitled",
-                       "sub":  "",
-                       "desc":  "",
-                       "img":  "https://kc09393.github.io/portfolio/imgs/ph-p1782753587168.jpg"
-                   }
-               ],
-    "certs":  [
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  },
-                  {
-                      "name":  "",
-                      "org":  "",
-                      "date":  "",
-                      "tags":  [
-
-                               ],
-                      "main":  "",
-                      "thumb":  ""
-                  }
-              ]
+  "_v": 1782925184925,
+  "bio": "",
+  "artworks": [
+    {
+      "key": "a0",
+      "title": "林境幽影",
+      "lbl": "Acrylic & Digital",
+      "sub": "Mixed Media · 2022",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a0.jpg"
+    },
+    {
+      "key": "a1",
+      "title": "抽象系列 No.1",
+      "lbl": "Oil on Canvas",
+      "sub": "Oil Painting · 2022",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1.jpg"
+    },
+    {
+      "key": "a2",
+      "title": "抽象系列 No.2",
+      "lbl": "Oil on Canvas",
+      "sub": "Oil Painting · 2021",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a2.jpg"
+    },
+    {
+      "key": "a3",
+      "title": "靜物素描",
+      "lbl": "Pencil on Paper",
+      "sub": "Drawing · 2021",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
+    },
+    {
+      "key": "a1782741379104",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782741379104.jpg"
+    },
+    {
+      "key": "a1782742647246",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782742647246.png"
+    },
+    {
+      "key": "a1782750463843",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
+    },
+    {
+      "key": "a1782751756956",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
+    },
+    {
+      "key": "a1782753078662",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
+    },
+    {
+      "key": "a1782755843571",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782755843571.jpg"
+    },
+    {
+      "key": "d0",
+      "title": "敺拙???",
+      "lbl": "3D Environment / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d0.png"
+    },
+    {
+      "key": "d1",
+      "title": "?訾?鋆蔭 KC",
+      "lbl": "3D Sculpture / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d1.png"
+    },
+    {
+      "key": "d2",
+      "title": "撟餌蝘?",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d2.png"
+    },
+    {
+      "key": "d3",
+      "title": "???啗?",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d3.png"
+    },
+    {
+      "key": "d4",
+      "title": "?撟曆?",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d4.png"
+    },
+    {
+      "key": "d5",
+      "title": "?芯?鈭箏?",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d5.png"
+    },
+    {
+      "key": "d6",
+      "title": "KAUCHI ??閬死",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d6.png"
+    },
+    {
+      "key": "d7",
+      "title": "?訾???皜脫?",
+      "lbl": "3D Character / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d7.png"
+    },
+    {
+      "key": "d8",
+      "title": "??ˇ?砌?",
+      "lbl": "3D Product / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d8.png"
+    },
+    {
+      "key": "d9",
+      "title": "撟曆??噬",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d9.png"
+    },
+    {
+      "key": "d10",
+      "title": "?望絲撉賊爸",
+      "lbl": "3D Render / Blender",
+      "sub": "3D Art 繚 2026",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-d10.png"
+    }
+  ],
+  "photos": [
+    {
+      "key": "p0",
+      "title": "蜜與花",
+      "sub": "微距 · 自然",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p0.jpg"
+    },
+    {
+      "key": "p1",
+      "title": "黃昏出航",
+      "sub": "風景 · 海洋",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p1.jpg"
+    },
+    {
+      "key": "p2",
+      "title": "縱身",
+      "sub": "街頭 · 動態",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p2.jpg"
+    },
+    {
+      "key": "p3",
+      "title": "波上宮",
+      "sub": "神社 · 沖繩",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
+    },
+    {
+      "key": "p1782741496340",
+      "title": "Untitled",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p1782741496340.png"
+    },
+    {
+      "key": "p1782753587168",
+      "title": "Untitled",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p1782753587168.jpg"
+    }
+  ],
+  "certs": [
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    },
+    {
+      "name": "",
+      "org": "",
+      "date": "",
+      "tags": [],
+      "main": "",
+      "thumb": ""
+    }
+  ]
 }
