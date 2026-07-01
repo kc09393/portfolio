@@ -1,5 +1,5 @@
 {
-  "_v": 1782925270132,
+  "_v": 1782925364993,
   "bio": "",
   "artworks": [
     {
@@ -33,14 +33,6 @@
       "sub": "Drawing · 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
-    },
-    {
-      "key": "a1782741379104",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782741379104.jpg"
     },
     {
       "key": "a1782742647246",
@@ -253,7 +245,7 @@
       "org": "",
       "date": "",
       "tags": [],
-      "main": "",
+      "main": "https://kc09393.github.io/portfolio/imgs/cert-undefined.jpg",
       "thumb": ""
     },
     {
