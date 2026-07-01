@@ -1,5 +1,5 @@
 {
-  "_v": 1782944813235,
+  "_v": 1782944985865,
   "bio": "",
   "artworks": [
     {
@@ -49,14 +49,6 @@
       "sub": "",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
-    },
-    {
-      "key": "a1782751756956",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
     },
     {
       "key": "a1782753078662",
@@ -161,14 +153,6 @@
       "sub": "3D Art 繚 2026",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-d10.png"
-    },
-    {
-      "key": "a1782741379104",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782741379104.jpg"
     }
   ],
   "photos": [
