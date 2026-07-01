@@ -1,5 +1,5 @@
 {
-  "_v": 1782944783235,
+  "_v": 1782944785232,
   "bio": "",
   "artworks": [
     {
@@ -33,6 +33,46 @@
       "sub": "Drawing · 2021",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-a3.jpg"
+    },
+    {
+      "key": "a1782742647246",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782742647246.png"
+    },
+    {
+      "key": "a1782750463843",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
+    },
+    {
+      "key": "a1782751756956",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
+    },
+    {
+      "key": "a1782753078662",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
+    },
+    {
+      "key": "a1782755843571",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782755843571.jpg"
     },
     {
       "key": "d0",
@@ -123,46 +163,6 @@
       "img": "https://kc09393.github.io/portfolio/imgs/art-d10.png"
     },
     {
-      "key": "a1782742647246",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782742647246.png"
-    },
-    {
-      "key": "a1782750463843",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782750463843.jpg"
-    },
-    {
-      "key": "a1782751756956",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782751756956.jpg"
-    },
-    {
-      "key": "a1782753078662",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782753078662.jpg"
-    },
-    {
-      "key": "a1782755843571",
-      "title": "Untitled",
-      "lbl": "Mixed Media",
-      "sub": "",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782755843571.jpg"
-    },
-    {
       "key": "a1782741379104",
       "title": "Untitled",
       "lbl": "Mixed Media",
@@ -187,18 +187,18 @@
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p1.jpg"
     },
     {
-      "key": "p3",
-      "title": "波上宮",
-      "sub": "神社 · 沖繩",
-      "desc": "",
-      "img": "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
-    },
-    {
       "key": "p2",
       "title": "縱身",
       "sub": "街頭 · 動態",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/ph-p2.jpg"
+    },
+    {
+      "key": "p3",
+      "title": "波上宮",
+      "sub": "神社 · 沖繩",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/ph-p3.jpg"
     },
     {
       "key": "p1782741496340",
