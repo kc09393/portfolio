@@ -1,5 +1,5 @@
 {
-  "_v": 1782974407425,
+  "_v": 1782974557145,
   "bio": "",
   "artworks": [
     {
@@ -145,6 +145,14 @@
       "sub": "3D Art 繚 2026",
       "desc": "",
       "img": "https://kc09393.github.io/portfolio/imgs/art-d10.png"
+    },
+    {
+      "key": "a1782974550736",
+      "title": "Untitled",
+      "lbl": "Mixed Media",
+      "sub": "",
+      "desc": "",
+      "img": "https://kc09393.github.io/portfolio/imgs/art-a1782974550736.jpg"
     }
   ],
   "photos": [
