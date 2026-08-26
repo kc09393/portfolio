@@ -486,8 +486,8 @@ body{background:radial-gradient(circle at 86% 4%,rgba(201,169,110,.12),transpare
 body::before{content:'';position:fixed;inset:0;pointer-events:none;z-index:-1;background:linear-gradient(115deg,transparent 0%,rgba(255,255,255,.012) 42%,transparent 70%)}
 #intro{background:var(--ink)}
 nav{border-bottom:1px solid transparent}nav.scrolled{background:rgba(10,10,10,.86);border-bottom-color:rgba(226,196,140,.12)}
-#hero{min-height:94vh;padding-top:154px;background:linear-gradient(135deg,transparent 0%,rgba(201,169,110,.035) 100%)}
-.h-title{max-width:1030px;letter-spacing:-.06em;line-height:.88}.h-title .line2{padding-left:clamp(28px,5vw,78px)}
+#hero{min-height:88vh;padding-top:132px;padding-bottom:82px;background:linear-gradient(135deg,transparent 0%,rgba(201,169,110,.035) 100%)}
+.h-title{max-width:920px;font-size:clamp(52px,7.2vw,112px);letter-spacing:-.055em;line-height:.96}.h-title .line2{padding-left:clamp(28px,4vw,64px);margin-top:.08em}
 .h-title-en{letter-spacing:.22em;color:rgba(226,196,140,.62)}
 .h-sub{max-width:590px;font-size:15px;line-height:1.95;color:var(--muted)}
 .h-cta-wrap{flex-direction:row;gap:14px;flex-wrap:wrap}.h-cta{border:1px solid rgba(226,196,140,.34);padding:13px 19px;gap:10px;color:rgba(244,242,238,.9);letter-spacing:.14em}.h-cta:first-child{background:var(--gld);color:#17130c;border-color:var(--gld)}.h-cta:hover{gap:16px;background:rgba(226,196,140,.1);border-color:var(--gld)}.h-cta:first-child:hover{background:var(--gld2)}.h-cta .cta-ln{width:20px}.h-cta:hover .cta-ln{width:28px}.h-cta:first-child .cta-ln{background:#17130c}
@@ -529,6 +529,10 @@ footer{border-color:var(--line)}
 
 .skip-link{position:fixed;top:-60px;left:20px;z-index:9999;background:var(--gld);color:#1c1a17;padding:8px 16px;font-size:10px;letter-spacing:.2em;text-transform:uppercase;text-decoration:none;border-radius:2px;transition:top .2s}.skip-link:focus{top:20px}@keyframes introSafetyHide{to{opacity:0;visibility:hidden}}#intro{animation:introSafetyHide .01s linear 5s forwards}.case-modal-link{display:inline-flex;align-items:center;gap:10px;grid-column:1/-1;justify-self:start;margin-top:24px;padding:13px 16px;border:1px solid rgba(226,196,140,.58);color:var(--cream);font-size:10px;letter-spacing:.14em;text-decoration:none;transition:background .25s,border-color .25s}.case-modal-link:hover,.case-modal-link:focus-visible{background:rgba(226,196,140,.16);border-color:var(--gld);outline:none}.case-modal-link::after{content:'↗';font-size:15px;color:var(--gld)}.case-modal-process{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;list-style:none;margin:0 0 28px;padding:0}.case-modal-process li{display:flex;flex-direction:column;gap:10px;min-height:112px;padding:17px;border-top:1px solid rgba(226,196,140,.42);background:rgba(226,196,140,.045);color:rgba(244,242,238,.74);font-size:11.5px;line-height:1.75}.case-modal-process li>span:first-child{color:var(--gld);font-family:var(--serif);font-size:16px;letter-spacing:.12em}.case-modal-process li>span:last-child{max-width:28ch}@media(max-width:700px){.case-modal-process{grid-template-columns:1fr;gap:7px;margin-bottom:22px}.case-modal-process li{min-height:0;padding:13px 14px;display:grid;grid-template-columns:36px 1fr;gap:10px;font-size:11.5px}.case-modal-process li>span:first-child{font-size:14px;padding-top:1px}.case-modal-process li>span:last-child{max-width:none}}</style>
 </head>
+<style>
+@media(min-width:1101px){.case-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(min-width:701px) and (max-width:1100px){.case-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+</style>
 <body>
 
 <!-- INTRO -->
@@ -567,7 +571,7 @@ footer{border-color:var(--line)}
     <span class="h-year">Portfolio &nbsp;·&nbsp; 2026</span>
   </div>
   <div class="h-center">
-    <h1 class="h-title">用視覺，讓<span class="line2"><em>品牌訊息更清楚</em></span></h1>
+    <h1 class="h-title">把品牌訊息，<span class="line2"><em>做得更清楚</em></span></h1>
     <span class="h-title-en">Clear visual communication, made with care.</span>
     <div class="h-bottom">
       <p class="h-sub" id="hero-sub">我是 KC，時尚經營系畢業，具備品牌視覺、內容製作與零售現場的實務經驗。擅長先梳理需求，再將畫面、文案與流程整理成清楚、可執行的溝通成果。</p>
@@ -720,7 +724,7 @@ footer{border-color:var(--line)}
     </div>
     <span class="w-idx">02</span>
   </div>
-  <p class="case-intro reveal">從視覺系統、消費者研究到互動工具，這四個案例呈現我如何釐清任務、整理內容並完成可被閱讀或使用的成果。</p>
+  <p class="case-intro reveal">從視覺系統、消費者研究到互動學習網站，三個案例呈現我如何釐清任務、整理內容並完成可被閱讀或使用的成果。</p>
 
 
 
@@ -770,21 +774,6 @@ footer{border-color:var(--line)}
     </div>
     <button type="button" class="case-open" data-case="lab" aria-label="查看 Blender 材質節點學習站案例內容">查看案例內容</button>
     <div class="case-foot">個人獨立開發 · 產品企劃、介面與前端實作</div>
-  </article>
-  <article class="case-card case-planner reveal" data-case="planner">
-    <span class="case-index" aria-hidden="true">04</span>
-    <div class="case-kicker">Independent Concept Tool</div>
-    <div class="case-evidence">
-      <img src="imgs/cases/brand-content-planner.svg" alt="服飾品牌內容企劃工具的三步驟操作畫面" loading="lazy"/>
-    </div>
-    <div class="case-copy">
-      <p class="case-type">Role · Product Concept &amp; Interface Design</p>
-      <h3>服飾品牌<br/><em>內容企劃工具</em></h3>
-      <p>用三個簡單選擇，協助小型品牌整理視覺重點、資訊順序與發布前檢查，讓做素材前先有清楚方向。</p>
-      <div class="case-tags"><span>內容企劃</span><span>互動介面</span><span>品牌溝通</span></div>
-    </div>
-    <button type="button" class="case-open" data-case="planner" aria-label="查看服飾品牌內容企劃工具案例內容">查看案例內容</button>
-    <div class="case-foot">個人概念工具 · 企劃邏輯與互動介面</div>
   </article>
 </div>
 </section>
