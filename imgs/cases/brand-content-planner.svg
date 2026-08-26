@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" fill="none">
+  <rect width="1200" height="675" fill="#12110f"/>
+  <circle cx="1050" cy="-30" r="320" fill="#d6b477" fill-opacity=".12"/>
+  <path d="M78 87h52" stroke="#d6b477" stroke-width="2"/><text x="78" y="124" fill="#d6b477" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">KC · CONTENT PLANNER</text>
+  <text x="78" y="242" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="68" letter-spacing="-3">三個選擇，整理一份</text><text x="78" y="316" fill="#d6b477" font-family="Arial,sans-serif" font-size="68" letter-spacing="-3">品牌內容方向</text>
+  <text x="80" y="367" fill="#bcb4a7" font-family="Arial,sans-serif" font-size="20">Brand content planning tool for small fashion brands.</text>
+  <g transform="translate(78 442)"><rect width="310" height="142" rx="3" fill="#1b1915" stroke="#d6b477" stroke-opacity=".35"/><text x="23" y="38" fill="#d6b477" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">01 · GOAL</text><text x="23" y="84" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="28">新品上架</text><text x="23" y="114" fill="#a8a094" font-family="Arial,sans-serif" font-size="16">先讓商品重點被看見</text></g>
+  <g transform="translate(420 442)"><rect width="310" height="142" rx="3" fill="#1b1915" stroke="#d6b477" stroke-opacity=".35"/><text x="23" y="38" fill="#d6b477" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">02 · CHANNEL</text><text x="23" y="84" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="28">IG 貼文</text><text x="23" y="114" fill="#a8a094" font-family="Arial,sans-serif" font-size="16">用輪播補齊資訊</text></g>
+  <g transform="translate(762 442)"><rect width="310" height="142" rx="3" fill="#1b1915" stroke="#d6b477" stroke-opacity=".35"/><text x="23" y="38" fill="#d6b477" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">03 · TONE</text><text x="23" y="84" fill="#f4f0e8" font-family="Arial,sans-serif" font-size="28">乾淨聚焦</text><text x="23" y="114" fill="#a8a094" font-family="Arial,sans-serif" font-size="16">讓畫面與重點更清楚</text></g>
+</svg>
